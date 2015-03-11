@@ -1,4 +1,4 @@
-# ansible-npm
+# ansible-ntp
 
 An Ansible role for installing NTP.
 
